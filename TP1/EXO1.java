@@ -30,7 +30,7 @@ public class EXO1 {
             double quotient = (double) a / b;
             System.out.println("Le quotient est : " + quotient);
         } else {
-            System.out.println("Le quotient n'est pas défini car le deuxième nombre est 0.");
+            System.out.println("Le quotient n'est pas défini car b vaut 0.");
         }
 
         // Fermer le scanner
